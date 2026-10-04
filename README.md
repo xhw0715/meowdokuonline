@@ -14,7 +14,7 @@
 ## 🎮 Play Now
 
 Open the game directly in Telegram:
-👉 **[https://t.me/meowdokubot](https://t.me/meowdokubot)**
+👉 https://meowdokuguide.com/online
 
 ---
 
